@@ -11,6 +11,21 @@ Generative AI impact of scaling in LLMs.
 
 ## Algorithm:
 
+###Goal: Produce a comprehensive report covering
+Foundations of Generative AI,
+Architectures (esp. Transformers),
+Applications,
+Impact of scaling in LLMs.
+
+###Inputs
+Topic outline (the 4 sections above)
+Style constraints (academic tone, headings, figures/diagrams to suggest, citations if allowed)
+Model(s): LLM of your choice (e.g., “writer”), optional “critic” model (can be the same model with a different system prompt)
+(Optional) Knowledge sources: lecture notes, textbooks, papers, web sources
+
+###Outputs
+Final report (Markdown/Word/PDF)
+(Optional) Appendix with prompts used and model metadata
 ## Output
 
 ## Result
