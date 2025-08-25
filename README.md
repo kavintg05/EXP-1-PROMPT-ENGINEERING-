@@ -27,6 +27,6 @@ Outputs
 Final report (Markdown/Word/PDF)
 (Optional) Appendix with prompts used and model metadata
 ## Output
-
+https://github.com/kavintg05/EXP-1-PROMPT-ENGINEERING-/blob/main/Exp1%20Prompt.pdf
 ## Result
-
+A comprehensive report on Generative AI and LLMs was successfully generated using prompt engineering, covering foundational concepts, architectures, applications, and scaling impacts. This demonstrates the effectiveness of structured prompts in producing accurate and well-organized academic content.
